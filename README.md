@@ -1,26 +1,19 @@
-# Hi there 👋
+# Hi 👋, I'm Salman Faris
 
-I'm Salman Faris, an aspiring Data Scientist passionate about Data Analysis, Machine Learning, and AI.
+Aspiring Data Analyst & Data Scientist passionate about transforming data into meaningful insights.
 
-## 👨‍💻 About Me
-- 🌍 From: Kerala, India
-- 🎓 Aspiring Data Scientist
-- 📊 Learning Data Analysis, Python, SQL, Power BI
-- 🤖 Interested in Machine Learning and AI
-- 🚀 Building projects and continuously learning
+## Skills
+🐍 Python
+🗄 SQL
+📊 Power BI
+📈 Tableau
+🤖 Machine Learning
+📉 Statistics
+📋 Excel
 
-## 🛠️ Skills
-- Python
-- SQL
-- Power BI
-- Excel
-- Machine Learning
-
-## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-linkedin-id
-- GitHub: https://github.com/salman-209
-
-## 📂 Projects
-- Sales Dashboard using Power BI
-- Data Analysis using Python
-- Machine Learning Projects
+## Featured Projects
+🔹 Customer Sentiment Analysis
+🔹 Electricity Demand Forecasting
+🔹 Sales Dashboard (Power BI)
+🔹 Face Mask Detection using Deep Learning
+🔹 Image Classification using MobileNetV2
